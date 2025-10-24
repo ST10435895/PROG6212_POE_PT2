@@ -1,0 +1,6 @@
+@GUTClaimsApi_HostAddress = http://localhost:5192
+
+GET {{GUTClaimsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

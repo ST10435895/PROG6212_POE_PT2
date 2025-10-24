@@ -1,0 +1,8 @@
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.csproj.AssemblyReference.cache
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.AssemblyInfoInputs.cache
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.AssemblyInfo.cs
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RC_Student_Lab\Desktop\prog poe pt2\GUTClaimsApi\GUTClaimsApi\obj\Debug\net8.0\GUTClaimsApi.MvcApplicationPartsAssemblyInfo.cache
